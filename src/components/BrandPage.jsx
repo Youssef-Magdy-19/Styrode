@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./BrandPage.css";
-import logo from "../images/logo-f (1).png"; 
+import logo from "../images/looogoo.png"; 
 import { FaInstagram, FaFacebookF, FaTiktok, FaWhatsapp, FaGlobe } from "react-icons/fa";
 
 export default function BrandPage() {
