@@ -24,6 +24,19 @@
   width:100px;
   margin:0 auto 8px;
   display:block;
+  animation: floatLogo 3s ease-in-out infinite;
+}
+
+@keyframes floatLogo {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 
 .brand-title{ font-size:26px; margin:6px 0; font-weight:700;}
