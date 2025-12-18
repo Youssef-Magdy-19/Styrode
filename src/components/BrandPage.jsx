@@ -46,7 +46,7 @@ export default function BrandPage() {
 
                 <div className="social-links">
 
-                    <a href="https://www.instagram.com/styrodebrand" target="_blank" rel="noreferrer" className="animate-item">
+                    <a href="https://www.instagram.com/sty_rode" target="_blank" rel="noreferrer" className="animate-item">
                         <FaInstagram className="icon" /> Instagram
                     </a>
 
